@@ -9,3 +9,4 @@ input.addEventListener("input", (event) => {
     name.textContent = "Anonymous";
   }
 });
+
